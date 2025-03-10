@@ -1,3 +1,3 @@
-#Bootcamp DIO - Java
+## Bootcamp DIO - Java
 
-- Implementando uma simulação de uma conta bancaria dentro do terminal.
+- Implementando simulação de uma conta bancaria dentro do terminal.
